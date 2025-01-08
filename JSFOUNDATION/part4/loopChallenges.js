@@ -9,6 +9,9 @@ while (i <= 5) {
 console.log(sum);
 */
 
+
+
+
 /*
 
 2. using while loop that counts from 5 to 1 and 
@@ -49,24 +52,20 @@ do {
 
 /* 
 4. Write a `do while` loop that adds numbers from 1 to 3 and stores the result in a variable named `total`.
-*/
 
 /*
 
 let total = 0;
-
 let k = 1;
+
 do {
-    total = total + k;
+    total += k;
     k++;
-}   while (k <= 3);
-
-console.log(total);
+} while (k <= 3);
 
 
 
-
-/* 
+ 
 5. Write a `for` loop that multiplies each element in the array `[2, 4, 6]` by 2 and stores the results in a new array named `multipliedNumbers`.
 */
 
