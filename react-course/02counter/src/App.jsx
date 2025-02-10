@@ -31,10 +31,3 @@ function App() {
 export default App
 
 
-// - `cd /Users/namanshukla/Downloads/CODING/PROJECTS/codebase`
-// - `git init`
-// - `git add .`
-// - `git commit -m "Initial commit"`
-// - `git remote add origin https://github.com/namanshukla256/video-coding-interview-platform.git`
-// - `git branch -M main`
-// - `git push -u origin main`
